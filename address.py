@@ -11,7 +11,8 @@ import random
 Ahthor :Alan P Jiang
 To get the Province, City , Town as well as Village names for China
 Date: 12 Dec,2017
-
+Email: jiangpenghnlg@126.com
+If you get problems when use it, please contact me by email above.
 '''
 def downloadfile(homepage,path,filename):
 
