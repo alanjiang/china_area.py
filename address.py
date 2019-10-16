@@ -111,7 +111,7 @@ def getRelHtml(htmlLinkPath):
 
 
 def spider():
-    webroot='http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/'
+    webroot='XXXXX'
     localroot='F:/software/spider'
     file=downloadfile(webroot+'index.html',localroot,'index.html')
     lists=getChinaPages('china.txt',file)
